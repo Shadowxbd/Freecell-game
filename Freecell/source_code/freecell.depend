@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1706314310 source:c:\users\hamza bouda\documents\freecell\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonction.h"
+
+1706313330 source:c:\users\hamza bouda\documents\freecell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonction.h"
+
+1706314295 c:\users\hamza bouda\documents\freecell\fonction.h
+
+1706313330 source:c:\users\hamza bouda\documents\hamza_bouda\source_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonction.h"
+
+1706720168 c:\users\hamza bouda\documents\hamza_bouda\source_code\fonction.h
+
+1707080350 source:c:\users\hamza bouda\documents\hamza_bouda\source_code\fonction.c
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonction.h"
+
+1717510433 source:c:\users\hamza bouda\documents\semestre 1\structure de donnée\hamza_bouda\source_code\fonction.c
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonction.h"
+
+1717510459 c:\users\hamza bouda\documents\semestre 1\structure de donnée\hamza_bouda\source_code\fonction.h
+
+1717507349 source:c:\users\hamza bouda\documents\semestre 1\structure de donnée\hamza_bouda\source_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonction.h"
+
